@@ -1,3 +1,7 @@
+## Info
+This is my assignment in the coursera. 
+The code actually read data from the txt files and used the data to plot four figures.
+
 ## Introduction
 
 This assignment uses data from
